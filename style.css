@@ -1,0 +1,46 @@
+
+header{
+    height: 4rem;
+    background-color: black;
+    color: white;
+    font-size: 2rem;
+    text-align: center;
+    line-height: 4rem;
+}
+.images{
+    height: 40vh; 
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+    align-items: center;
+    
+}
+img{
+    height: 10rem;
+    width:10rem;
+    background-color: white;
+    border-radius: 60%;
+}
+.jas{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+}
+.first{
+    text-align: center;
+  
+}
+.second{
+    text-align: center;
+    
+}
+.butdiv{
+    height: 20vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.but{
+    height: 5vh;
+}
